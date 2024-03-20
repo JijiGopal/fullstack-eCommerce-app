@@ -25,6 +25,7 @@
     color: #626262;
     font-size: 20px;
     font-weight: 500;
+
 }
 
 .nav-menu li {
@@ -34,6 +35,11 @@
     justify-content: center;
     gap: 3px;
     cursor: pointer;
+}
+
+.nav-menu .menu-link{
+    text-decoration: none;
+    color: #626262;
 }
 
 .nav-menu hr {
